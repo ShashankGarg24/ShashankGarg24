@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1lwa9Nf8GJlfQYipn1Z0w896C32n2vFWT?usp=sharing).
 - 📫 Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/meetshashankgarg/).
 ### 📕 Latest Blog Posts<br>
-| <img src="https://miro.medium.com/v2/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="600" /> 
+| <img src="https://miro.medium.com/v2/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="100" /> 
 | :-: |
 | **Reflecting on Java : Unveiling the magic of Reflection** |
 | [*Read article*](https://medium.com/@sg24101999/reflecting-on-java-unveiling-the-magic-of-reflection-7140a465ff6b)
