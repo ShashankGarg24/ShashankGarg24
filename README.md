@@ -41,3 +41,5 @@ I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With exper
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankgarg24&show_icons=true&locale=en" alt="shashankgarg24" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankgarg24&show_icons=true&locale=en&layout=compact" alt="shashankgarg24" /></p>
+
+[![ShashankGarg24's Stack Overflow | Stats](https://stats.quira.sh/ShashankGarg24/stack-overflow?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ShashankGarg24)
