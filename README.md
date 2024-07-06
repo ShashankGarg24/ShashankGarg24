@@ -4,18 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankgarg24&label=Profile%20views&color=0e75b6&style=flat" alt="shashankgarg24" /> </p>
 
 - 🌱 I’m currently learning **Go**
-- 📝 I regularly write articles on [Medium](https://medium.com/@sg24101999).
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@sg24101999).
 - 💬 Ask me about **Java Development and about System Architecture**
 - ✉️ How to reach me **garg.shashank2410@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1lwa9Nf8GJlfQYipn1Z0w896C32n2vFWT?usp=sharing).
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meetshashankgarg/).
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1lwa9Nf8GJlfQYipn1Z0w896C32n2vFWT?usp=sharing).
+- 📫 Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/meetshashankgarg/).
 ### 📕 Latest Blog Posts<br>
-<!-- BLOG-POST-LIST:START -->
-| <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="600" /> 
+| <img src="https://miro.medium.com/v2/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="600" /> 
 | :-: |
 | **Reflecting on Java : Unveiling the magic of Reflection** |
 | [*Read article*](https://medium.com/@sg24101999/reflecting-on-java-unveiling-the-magic-of-reflection-7140a465ff6b)
-<!-- BLOG-POST-LIST:END -->
 
 ### 💨 Connect With Me :
 <p align="left">
