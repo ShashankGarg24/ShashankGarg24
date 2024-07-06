@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankGarg24&label=Profile%20views&color=77bb41&style=flat" alt="ShashankGarg" /> </p>
 <br>
-I'm a Backend Developer 🧑‍💻 & a System Architecture Enthusiast. With experience in both professional environments and problem solving, I continuously explore emerging tech trends to drive innovation and solve complex challenges. Let's build the future of tech together!
+I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With experience in both professional environments and problem solving, I continuously explore emerging tech trends to drive innovation and solve complex challenges. Let's build the future of tech together!
 
 <img align="right" alt="GIF" src="techstack.gif" width="350px"/>
 
