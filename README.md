@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankgarg24&label=Profile%20views&color=0e75b6&style=flat" alt="shashankgarg24" /> </p>
 
 - 🌱 I’m currently learning **Go**
-- 📝 I regularly write articles on [https://medium.com/@sg24101999](Medium)
+- 📝 I regularly write articles on <a href="https://medium.com/@sg24101999" target="blank">Medium</a>
 - 💬 Ask me about **Java Development and about System Architecture**
 - 📫 How to reach me **garg.shashank2410@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1lwa9Nf8GJlfQYipn1Z0w896C32n2vFWT?usp=sharing](Resume)
