@@ -7,7 +7,7 @@ I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With exper
 <img align="right" alt="GIF" src="techstack.gif" width="350px"/>
 
 ### 🧐 More About Me :
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **GoLang**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@sg24101999).
 - 💬 Ask me about **Java Development and about System Architecture**
 - ✉️ How to reach me **garg.shashank2410@gmail.com**
