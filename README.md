@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShashankGarg24&label=Profile%20views&color=77bb41&style=flat" alt="ShashankGarg" /> </p>
 <br>
-I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With experience in both professional environments and problem solving, I continuously explore emerging tech trends to drive innovation and solve complex challenges. Let's build the future of tech together!
+I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With experience in both professional environments and problem-solving, I continuously explore emerging tech trends to drive innovation and solve complex challenges. Let's build the future of tech together!
 
 <img align="right" alt="GIF" src="techstack.gif" width="350px"/>
 
@@ -16,10 +16,10 @@ I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With exper
 
   
 ### 📕 Latest Blog Posts<br>
-| <img src="https://miro.medium.com/v2/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="300" /> 
-| :-: |
-| **Reflecting on Java : Unveiling the magic of Reflection** |
-| [*Read article*](https://medium.com/@sg24101999/reflecting-on-java-unveiling-the-magic-of-reflection-7140a465ff6b)
+| <img src="https://miro.medium.com/v2/format:webp/1*4oclf4oXlucg3T9E7SqOaw.jpeg" alt="Article banner" width="300" /> | <img src="https://miro.medium.com/v2/format:webp/1*jLTpRYLGAovt2wNWUyopqA.png" alt="Article banner" width="300" /> 
+| :-: || :-: |
+| **Reflecting on Java: Unveiling the magic of Reflection** | **Mastering Java Threads: A Deep Dive into the Java Memory Model** |
+| [*Read article*](https://medium.com/@sg24101999/reflecting-on-java-unveiling-the-magic-of-reflection-7140a465ff6b) | [*Read article*](https://medium.com/gitconnected/mastering-java-threads-a-deep-dive-into-the-java-memory-model-856b5b88a091)
 
 
 ### 💨 Connect With Me :
