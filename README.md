@@ -9,7 +9,7 @@ I'm a Backend Developer 🧑‍💻 & System Architecture Enthusiast. With exper
 ### 🧐 More About Me :
 - 🌱 I’m currently learning **GoLang**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@sg24101999).
-- 💬 Ask me about **Java Development and about System Architecture**
+- 💬 Ask me about **Java Development and System Architecture**
 - ✉️ How to reach me **garg.shashank2410@gmail.com**
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/drive/folders/1lwa9Nf8GJlfQYipn1Z0w896C32n2vFWT?usp=sharing).
 - 📫 Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/meetshashankgarg/).
